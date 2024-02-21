@@ -1,0 +1,5 @@
+../src/p1.sv
+../src/bcdtohex.sv
+../src/downstream.sv
+../src/p1hwtb.sv
+../src/sumitup.sv
